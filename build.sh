@@ -1,1 +1,1 @@
-mvn release:releaser
+mvn releaser:release
